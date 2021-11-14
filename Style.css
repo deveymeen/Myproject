@@ -1,3 +1,6 @@
-h1 {
-    color :brown
+h1,  .coloration {
+    color :brown;
+}
+h1, p, ul, ol, li {
+    text-align: center;
 }
