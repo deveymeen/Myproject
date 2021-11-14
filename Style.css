@@ -4,3 +4,9 @@ h1,  .coloration {
 h1, p, ul, ol, li {
     text-align: center;
 }
+body {
+    background-color: rgb(104, 104, 202);
+}
+.important {
+    background-color: darkgray;
+}
